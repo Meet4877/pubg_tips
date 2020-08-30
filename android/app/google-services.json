@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "813431538299",
+    "firebase_url": "https://pubg-55856.firebaseio.com",
+    "project_id": "pubg-55856",
+    "storage_bucket": "pubg-55856.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813431538299:android:c5c6523ef70972d84098de",
+        "android_client_info": {
+          "package_name": "meet4877.pubgtipsandguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813431538299-14skd6d8vgnp3cce6kasojuv5jdpjq2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC99qXgOCxMHaHr7_FlpKmWujGXynaHXxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813431538299-14skd6d8vgnp3cce6kasojuv5jdpjq2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
