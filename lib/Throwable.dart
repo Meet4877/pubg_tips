@@ -7,7 +7,8 @@ class Car extends StatefulWidget {
   @override
   _CarState createState() => _CarState();
 }
-
+                                                  //this CODE is not efficeint because it repative
+                                                   // for effficent way you create JSON file of data
 class _CarState extends State<Car> {
   @override
   Widget build(BuildContext context) {
